@@ -24,7 +24,7 @@
 ![PyCitySchools.ipynb district summary](Resources/PyCitySchools_district-summary.png)
 ![PyCitySchool_Challenge.ipynb district summary](Resources/Module_4-Challege-file_district-summary.png)
 ![Module_4-Challenge_per-school-summary-wrong-THS-StudentCount](Resources/Module_4-Challenge_per-school-summary-wrong-THS-StudentCount.png)
-![Module_4-Challenge_per-school-summary-correct_THS StudentCount](Resources/Module_4-Challenge_per-school-summary-correct_THS StudentCount.png)
+![Module_4-Challenge_per-school-summary-correct_THS StudentCount](Resources/Module_4-Challenge_per-school-summary-correct_THS_StudentCount.png)
 ![PyCitySchool_per-school-summary](Resources/PyCitySchool_per-school-summary.png)
 ![PyCitySchool_per-school-summary_top5-and-bottom5-schools](Resources/PyCitySchool_per-school-summary_top5-and-bottom5-schools.png)
 ![Module_4-Challenge_per-school-summary_top5-and-bottom5-schools](Resources/Module_4-Challenge_per-school-summary_top5-and-bottom5-schools.png)
