@@ -22,6 +22,8 @@
   12. Thomas High School is one of the top perfoming schools in the PyCitySchool district.
   13. The removal of the TGS 9th grader scores had almost no effect on THS scores and pass percentages.
 
+
+![Module_4-Challenge-file_NaN-display](Resources/Module_4-Challenge-file_NaN-display.png)
 ![PyCitySchools.ipynb district summary](Resources/PyCitySchools_district-summary.png)
 ![PyCitySchool_Challenge.ipynb district summary](Resources/Module_4-Challege-file_district-summary.png)
 ![Module_4-Challenge_per-school-summary-wrong-THS-StudentCount](Resources/Module_4-Challenge_per-school-summary-wrong-THS-StudentCount.png)
