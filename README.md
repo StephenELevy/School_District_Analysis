@@ -21,6 +21,7 @@
   11. The charter school performed significantly better than the district schools (see screenshots showing score per school type.)
   12. Thomas High School is one of the top perfoming schools in the PyCitySchool district.
   13. The removal of the TGS 9th grader scores had almost no effect on THS scores and pass percentages.
+  14. Note that I adjusted the student counts in the district_summary and per_school_summary to represent the actual total count and THS count to show the actual count values that were used to make the percentage percentage calculations.
 
 
 ![Module_4-Challenge-file_NaN-display](Resources/Module_4-Challenge-file_NaN-display.png)
